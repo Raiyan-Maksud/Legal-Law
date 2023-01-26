@@ -1,0 +1,56 @@
+.btn-primary{
+    background-color: #B68C5A;
+    border: 0;
+    padding: 10px 25px;
+    color: white;
+}
+.picture-heading{
+    font-family: 'EB Garamond', serif;
+    font-size: 65px;
+    padding-top: 100px;
+}
+.input{
+    border: 0;
+    padding: 15px 150px;
+}
+.banner{
+    background-image: url("images/Rectangle\ 6.png");
+    background-repeat: no-repeat;
+   
+}
+/* .bg-gradient {
+    background: linear-gradient(to right, 
+      url('images/Rectangle\ 4.png') 100%, 
+      url('images/Rectangle\ 5.png') 100%
+
+    );
+  } */
+  /* background-image: url('images/watch.png'),url('images/gradient1.png');
+  height: 300px;
+  width: 1140px;
+  background-repeat: no-repeat;
+  background-blend-mode: overlay; */
+
+/* ..............second-part.............. */
+
+.second-heading{
+    line-height: 90px;
+    font-family: 'EB Garamond', serif;
+}
+.second-grid{
+    padding: 50px 0px;
+}
+.grid-heading{
+    font-family: 'EB Garamond', serif;
+}
+.grid-heading-1{
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+}
+
+/* ......................fifth-part................. */
+
+.btn-secondary{
+    background-color: #B68C5A;
+    padding: 10px 25px;
+}
